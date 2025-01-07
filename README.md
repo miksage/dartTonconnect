@@ -1,6 +1,6 @@
 # Dart SDK for TON Connect
 
-Dart SDK for TON Connect 2.0
+Dart SDK for TON Connect 2.0 (updated to Dart 3.5.0 version)
 
 Analogue of the [@tonconnect/sdk](https://github.com/ton-connect/sdk/tree/main/packages/sdk) library.
 
